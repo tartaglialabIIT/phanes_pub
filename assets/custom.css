@@ -1,0 +1,9 @@
+.Select.has-value .Select-multi-value-wrapper { /* applies to an element if a parent class exists*/
+	max-height: 100px;
+    overflow-y: auto;
+}
+
+.Select-multi-value-wrapper {
+    max-height: none;
+    overflow-y: hidden;
+}

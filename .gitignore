@@ -1,0 +1,16 @@
+.env
+*.pkl
+*.rar
+*.zip
+*.tsv
+*.pyc
+*.md
+!content/*.md
+FETCH_HEAD
+.claude/
+uploads/
+code/data/
+__pycache__/
+code/__pycache__
+code/src/AlphaFold/__pycache__
+wetransfer_profet_data_2026-05-15_0831.zip

@@ -1,0 +1,7 @@
+# runtime output -- per-job work dirs live under the job folder, but guard
+# against anything landing here if a script is run the old way
+NAMD-MIN/
+RESULTS/
+*.pdb
+*.log
+*.dcd
